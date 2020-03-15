@@ -13,7 +13,7 @@ We use GitHub (https://github.com/) for versioning. For the versions available, 
 ![Horiseon Body](https://github.com/izabelacloud/Assignment1/blob/master/assets/images/Horiseon%20SEO%20Body.png?raw=true)
 
 ## Authors
-* **Izabela Petrovicova** - [izabelacloud] (https://github.com/izabelacloud)
+* **Izabela Petrovicova** - [izabelacloud](https://github.com/izabelacloud)
 
 ## Acknowledgments
 * Thank you @Berkeley Extension for all the support in building / refactoring my first website.
