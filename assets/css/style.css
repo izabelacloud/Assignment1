@@ -24,6 +24,11 @@ body {
     color: #d9dcd6;
 }
 
+.header h1 .hori {
+    color: white;
+}
+
+
 .header div {
     padding-top: 15px;
     margin-right: 20px;
